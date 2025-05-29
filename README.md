@@ -2,6 +2,7 @@
 
 This is a small Python tool that helps you **search for any text inside files with a specific extension** — recursively through folders.
 You can also tell it which folders to ignore (like `node_modules` or `.git`), so it doesn’t waste time digging where you don’t want it.
+![image](https://github.com/user-attachments/assets/a7c22039-fc86-4051-a5f0-1879569d3a38)
 
 ---
 
